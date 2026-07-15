@@ -1,8 +1,6 @@
 # Implantação de Impressora via Microsoft Intune
 
-Este repositório documenta a estratégia de implantação automatizada e silenciosa da impressora multifuncional em estações Windows 10/11 gerenciadas pelo Microsoft Intune.
-
-A solução foi projetada para cenários onde os notebooks e a impressora compartilham a mesma rede local (LAN/Wi-Fi). Ela cria uma porta TCP/IP local e instala o driver oficial diretamente no dispositivo, eliminando a dependência de servidores de impressão.
+Scripts PowerShell para automatizar empacotamento e instalação de aplicativos via Microsoft Intune
 
 ## 📂 Organização do Repositório
 
